@@ -1,0 +1,11 @@
+# ninja log v5
+12	6089	7584820215273067	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b85ecca247706310
+10	6480	7584820220001991	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	27248e64d703d9c3
+6	6543	7584820220316310	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	336439134fdea651
+4	6964	7584820224660796	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c81b4075f079c020
+8	7032	7584820225548432	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8d6d6691415b8b8
+6481	7107	7584820226383714	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	338f2a3da462f9eb
+1	7126	7584820226442121	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f5012ca9b21d105a
+7107	8043	7584820233595920	D:/GITHUB/Car-Parking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4n571x6f/obj/arm64-v8a/libswappywrapper.so	cf0120b5c491988
+6094	8121	7584820236491114	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c203598613dde06f
+8121	8337	7584820237906237	D:/GITHUB/Car-Parking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4n571x6f/obj/arm64-v8a/libgame.so	8a943edcdd537171
